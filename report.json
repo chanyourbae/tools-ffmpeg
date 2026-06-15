@@ -1,0 +1,62 @@
+{
+  "generatedAt": "2026-06-15T18:51:38.171Z",
+  "files": {
+    "abcd.js": {
+      "bytes": 21690,
+      "analysis": {
+        "indicators": {
+          "antiDebug": false,
+          "ffmpeg": false,
+          "serviceWorker": false,
+          "mp4Boxes": false,
+          "network": false,
+          "licenseOrKey": false
+        },
+        "urls": []
+      }
+    },
+    "efgh.js": {
+      "bytes": 10546,
+      "analysis": {
+        "indicators": {
+          "antiDebug": false,
+          "ffmpeg": true,
+          "serviceWorker": false,
+          "mp4Boxes": true,
+          "network": false,
+          "licenseOrKey": false
+        },
+        "urls": []
+      }
+    },
+    "ijkl.js": {
+      "bytes": 10007,
+      "analysis": {
+        "indicators": {
+          "antiDebug": false,
+          "ffmpeg": true,
+          "serviceWorker": false,
+          "mp4Boxes": false,
+          "network": false,
+          "licenseOrKey": false
+        },
+        "urls": []
+      }
+    }
+  },
+  "indexHtml": {
+    "bytes": 81863,
+    "analysis": {
+      "urls": [
+        "https://cdn.jsdelivr.net/npm/@ffmpeg/ffmpeg@0.11.6/dist/ffmpeg.min.js",
+        "https://www.tiktok.com/@ya2umi",
+        "https://t.me/yazumiskylin3",
+        "https://cd"
+      ],
+      "scriptRefs": [
+        "./abcd.js",
+        "https://cdn.jsdelivr.net/npm/@ffmpeg/ffmpeg@0.11.6/dist/ffmpeg.min.js"
+      ]
+    }
+  }
+}
